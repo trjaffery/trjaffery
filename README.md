@@ -19,6 +19,7 @@
   ![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
   <br clear="both">
+  
   <!-- Languages -->
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
