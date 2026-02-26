@@ -1,9 +1,7 @@
 <div align="center">
   
-  <img src=".github/workflows/wp5170752-raining-anime-wallpapers.jpg" alt="Banner" />
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=04A2D4&center=true&width=435&lines=software+engineering+%2B+cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=04A2D4&center=true&width=435&lines=software+engineering+%2B+cloud+%2B+machine learning" alt="Typing SVG" />
   </a> 
   
   <p>
