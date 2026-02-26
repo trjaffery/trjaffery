@@ -7,7 +7,7 @@
   </a> 
   
   <p>
-    Computer Science student focused on backend systems, cloud architecture, and applied machine learning. 
+    Hi! I'm Tanzeel Jaffery, a Computer Science student at the University of Texas at Dallas focused on backend systems, cloud architecture, and applied machine learning. 
     AWS Certified Solutions Architect – Associate & AWS AI Practitioner.
   </p>
   
