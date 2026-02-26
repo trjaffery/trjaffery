@@ -8,7 +8,6 @@
   
   <p>
     Hi! I'm Tanzeel Jaffery, a Computer Science student at the University of Texas at Dallas focused on backend systems, cloud architecture, and applied machine learning. 
-    AWS Certified Solutions Architect – Associate & AWS AI Practitioner.
   </p>
   
   <br clear="both">
@@ -19,6 +18,7 @@
   ![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+  <br clear="both">
   <!-- Languages -->
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
