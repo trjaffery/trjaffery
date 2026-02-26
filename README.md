@@ -5,10 +5,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=04A2D4&center=true&width=435&lines=software+engineering+%2B+cloud" alt="Typing SVG" />
   </a> 
+  
   <br clear="both">
 
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/snake.svg" alt="Snake animation" />
-  
+  <img src="https://raw.githubusercontent.com/trjaffery/trjaffery/output/snake.svg" alt="Snake animation" />
+
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,8 +36,5 @@
   ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=oakbar&theme=high-contrast" alt="README Activity">
-  </p>
 
 </div>
